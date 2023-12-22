@@ -15,15 +15,15 @@
 			},
 			{
 				"title": "Hidden Camera",
-				"category_key": "hidden camera"
+				"category_key": "hidden-camera"
 			},
 			{
 				"title": "Music Videos",
-				"category_key": "music video"
+				"category_key": "music-video"
 			},
 			{
 				"title": "Long Form",
-				"category_key": "long form"
+				"category_key": "long-form"
 			}
 		],
 		"videos_per_page": 9
@@ -252,7 +252,7 @@
 			"TITLE": "Try",
 			"AGENCY": "Epitaph Records",
 			"URL": "https://vimeo.com/871989569",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1742241339-6b987fa493b48ca52dd58c52194acc48d9ebc5aafd0db894d7bf1785f3058b51-d?mw=500&mh=281"
 		},
 		{
@@ -261,7 +261,7 @@
 			"TITLE": "Robot Writes a Love Song",
 			"AGENCY": "Rise Records",
 			"URL": "https://vimeo.com/668994079",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1354883290-92f051b7da3967c2860d0d34c7681455731fcae9cd68ec1b300ea62fc9de218c-d?mw=500&mh=281"
 		},
 		{
@@ -270,7 +270,7 @@
 			"TITLE": "You're Not Alone",
 			"AGENCY": "Epitaph Records",
 			"URL": "https://vimeo.com/648154148",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1305732489-99c53a602886327d8ab28092bcfb3d443c627805cd9127197?mw=500&mh=281"
 		},
 		{
@@ -279,7 +279,7 @@
 			"TITLE": "Hit & Run",
 			"AGENCY": "Island Records UK",
 			"URL": "https://vimeo.com/499747513",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034170414-4c80cec73656b37c1213e410f642b06147a87e4b2d8806ec324e806b2cd728c5-d?mw=500&mh=281"
 		},
 		{
@@ -288,7 +288,7 @@
 			"TITLE": "Arrows",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/560046966",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1157774546-2d631ead04c743582a73aa8d8fb2d2b3df53a9e9916f5b661c214525e621f93f-d?mw=500&mh=281"
 		},
 		{
@@ -297,7 +297,7 @@
 			"TITLE": "I Don't Wanna Be An Asshole Anymore",
 			"AGENCY": "Epitaph Records",
 			"URL": "https://vimeo.com/499806313",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034324556-1b2db0293b5ad2f01843584490fc8d49f0f3486640822278bcb7eef888c548f5-d?mw=500&mh=281"
 		},
 		{
@@ -306,7 +306,7 @@
 			"TITLE": "Wrong  (starring Jack Black)",
 			"AGENCY": "Vice Records",
 			"URL": "https://vimeo.com/53798006",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/668435676-f1f39870f5bfb3a5631c58097f98bb2e41f07b40b7af186bb63ed4454bec27b0-d?mw=500&mh=281"
 		},
 		{
@@ -315,7 +315,7 @@
 			"TITLE": "Crossed Wires",
 			"AGENCY": "Merge Records",
 			"URL": "https://vimeo.com/499772489",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034974373-eb88e4340fb7cafada36f1d5131db19c49f375f08d91944c2799bfd2d69bd5c5-d?mw=500&mh=281"
 		},
 		{
@@ -324,7 +324,7 @@
 			"TITLE": "I See You are also Wearing a Black T-Shirt",
 			"AGENCY": "E One Records",
 			"URL": "https://vimeo.com/197986913",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662806783-66082cbb279321581e7078e3507cabaae3a66699a8c29c2d4ca49393f128dfef-d?mw=500&mh=281"
 		},
 		{
@@ -333,7 +333,7 @@
 			"TITLE": "Wires",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/499785137",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034325650-a6772420a57bfb7a363fbc7526819557e04f93bdbd0a620ad044d3d794e61465-d?mw=500&mh=281"
 		},
 		{
@@ -342,7 +342,7 @@
 			"TITLE": "Miserable Failure",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/106495202",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662811407-dc8a42786af53d8b23f2d1886573936a200e28e9b81e55c1dbf672c0fb0ed4cb-d?mw=500&mh=281"
 		},
 		{
@@ -351,16 +351,16 @@
 			"TITLE": "You Don't Want Your Nails Done",
 			"AGENCY": "Frykbeat Records",
 			"URL": "https://vimeo.com/669608282",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1356400776-e02c7fba094dbc1e896693dd1148294e88789305347c4b508b7faa4ea09fd96f-d?mw=500&mh=281"
 		},
 		{
 			"PUBLISH": true,
 			"CLIENT": "Lolo",
-			"TITLE": "I Hate You Too",
+			"TITLE": "Hate You Too",
 			"AGENCY": "Island Records UK",
 			"URL": "https://vimeo.com/86833951",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662996707-4bd0fc82cc228b371286f49c182004d9ad3b0c508aa0e87b1f606ec468c4b8b7-d?mw=500&mh=281"
 		},
 		{
@@ -369,7 +369,7 @@
 			"TITLE": "Erasure",
 			"AGENCY": "Merge Records",
 			"URL": "https://vimeo.com/259925841",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/695247018-0f2598bda7938b6fc7953b22d424d474eb70baee349d17e9ac5f360213eae4e5-d?mw=500&mh=281"
 		},
 		{
@@ -378,7 +378,7 @@
 			"TITLE": "Pillar of Salt",
 			"AGENCY": "Sub Pop Records",
 			"URL": "https://vimeo.com/51934131",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/663028697-258c25e6e0bcee79433683647fbc5a749327e277ea7e5b50fa928957d35d87ab-d?mw=500&mh=281"
 		},
 		{
@@ -387,7 +387,7 @@
 			"TITLE": "Stomach Pains",
 			"AGENCY": "Good To Die Records",
 			"URL": "https://vimeo.com/86833953",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662994700-17784522646a9e1a6496fab046947961cb0dcce0126ebab6a224dde87fd6077a-d?mw=500&mh=281"
 		},
 		{
@@ -396,7 +396,7 @@
 			"TITLE": "So Real It's Fake",
 			"AGENCY": "Lamb United Records",
 			"URL": "https://vimeo.com/106602986",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662810885-5a297b0d609eda99ee31dbb0c414a61ee3d6317cf7b17b7caa53f1f7af064072-d?mw=500&mh=281"
 		},
 		{
@@ -405,7 +405,7 @@
 			"TITLE": "Shadows",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/197986383",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662806970-5f4974aa3396648d6486bd42376ca18c3909a074fda6cd25ac8bfc8b7c01ac77-d?mw=500&mh=281"
 		},
 		{
@@ -414,7 +414,7 @@
 			"TITLE": "Courtesy Phone",
 			"AGENCY": "Merge Records",
 			"URL": "https://vimeo.com/165527908",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/569413880-ca78cd21a942d7a70efaff526a3d5b53dbfa590440f94ef7d249f317d8ed3038-d?mw=500&mh=281"
 		},
 		{
@@ -423,7 +423,7 @@
 			"TITLE": "I Gotsta Get Paid",
 			"AGENCY": "American Recordings / Universal",
 			"URL": "https://vimeo.com/54631402",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662999559-4e215022902565078eb2f4834fdd9802b9c62707683a1a2d68cf59f48e52da34-d?mw=500&mh=281"
 		},
 		{
@@ -432,7 +432,7 @@
 			"TITLE": "Touch Me I'm Sick",
 			"AGENCY": "Sub Pop Records",
 			"URL": "https://vimeo.com/197987501",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674165985-d95adaeb621d6da89cc5b3e65fcfd1a7fa54c8ffedbf0c2b9c8b5b3c3c88e430-d?mw=500&mh=281"
 		},
 		{
@@ -441,7 +441,7 @@
 			"TITLE": "Borrow & Bomb",
 			"AGENCY": "Vice Records",
 			"URL": "https://vimeo.com/48607022",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/682461471-15bb9d43a615e0ffa872dafbc399dbb138afc9c74576f5138221cc063206c0bc-d?mw=500&mh=281"
 		},
 		{
@@ -450,7 +450,7 @@
 			"TITLE": "Listen Up",
 			"AGENCY": "Kill Rock Stars",
 			"URL": "https://vimeo.com/54631398",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/663024678-2bd66b90c5f17cec3f0a5d75563b4055741c6afe6ffd7ee84bcaee9e96e51e66-d?mw=500&mh=281"
 		},
 		{
@@ -459,7 +459,7 @@
 			"TITLE": "Prehistoric Dog",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/531970961",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1101827532-e3d0ab1910ec5f0ed4e0669042a08aea30f33a1ed2970e8d97936b18d28d7eef-d?mw=500&mh=281"
 		},
 		{
@@ -468,7 +468,7 @@
 			"TITLE": "The City is at War",
 			"AGENCY": "Fueled by Ramen",
 			"URL": "https://vimeo.com/773600284",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1552972937-45d0ce7f7a843c5c591b1665fee2907f649843c56102f5c2170f5675f453adb3-d?mw=500&mh=281"
 		},
 		{
@@ -477,7 +477,7 @@
 			"TITLE": "Great Salt Lake",
 			"AGENCY": "Sub Pop Records",
 			"URL": "https://vimeo.com/669040314",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1355448827-bea06bfb6ef74879b622929e194450bd56179cf16e862168bab2c1e5887bb697-d?mw=500&mh=281"
 		},
 		{
@@ -486,7 +486,7 @@
 			"TITLE": "Say My Name",
 			"AGENCY": "Kill Rock Stars",
 			"URL": "https://vimeo.com/248798447",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674429689-515939e9bc145b09a4e42432920c867bb467455057a2d54c29f6d1838e212109-d?mw=500&mh=281"
 		},
 		{
@@ -495,7 +495,7 @@
 			"TITLE": "Girls Love Shoes",
 			"AGENCY": "Merge Records",
 			"URL": "https://vimeo.com/248797901",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674429820-7d7aed9faee39a55281625472d3870969e9c77d9aaaff4a2d5332fd768fd559f-d?mw=500&mh=281"
 		},
 		{
@@ -504,7 +504,7 @@
 			"TITLE": "Don't Believe You",
 			"AGENCY": "Kill Rock Stars",
 			"URL": "https://vimeo.com/54631400",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/663000818-4c2be947d4fac32cf8ad82869ed08243ecb727488a805d0529d4325c22dce1be-d?mw=500&mh=281"
 		},
 		{
@@ -513,7 +513,7 @@
 			"TITLE": "Hank Is Dead",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/197986108",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662807366-d9cdd44366f452e4a3255d99c09acbc25b56365673174ae8f1f6b05b47813fd9-d?mw=500&mh=281"
 		},
 		{
@@ -522,7 +522,7 @@
 			"TITLE": "Blood Like Cream",
 			"AGENCY": "Relapse Records",
 			"URL": "https://vimeo.com/86833954",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662994337-c02cc22b09f35e47b0af0e197d4163a6b3e3e9b5ee4d5389fa8021f604acbcad-d?mw=500&mh=281"
 		},
 		{
@@ -531,7 +531,7 @@
 			"TITLE": "Keep Your Eyes Ahead",
 			"AGENCY": "Sub Pop Records",
 			"URL": "https://vimeo.com/54631405",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674165780-05d4eded614c5213362169e97be8cf43c5b06a140a65dffea9012634fa275a63-d?mw=500&mh=281"
 		},
 		{
@@ -540,7 +540,7 @@
 			"TITLE": "Drunken Lullabies",
 			"AGENCY": "Burning Heart Records",
 			"URL": "https://vimeo.com/52570431",
-			"CATEGORY": "music video",
+			"CATEGORY": "music-video",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/663028387-b5d9866b87afb709ca2c8fe6f5b85c7e59291945d4b254c8676102bf397c40c4-d?mw=500&mh=281"
 		},
 		{
@@ -549,7 +549,7 @@
 			"TITLE": "Once You Pop",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/803217878",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1621355172-0db53591db94ede525250dd299375923f461a55502d072004f97301b82f4be9c-d?mw=500&mh=281"
 		},
 		{
@@ -558,7 +558,7 @@
 			"TITLE": "Rescue Cactus - Comedy Special (Intro)",
 			"AGENCY": "Amazon Prime",
 			"URL": "https://vimeo.com/802956097",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1621567294-0827f07546780ae3fea95d3d7996a052ad2abf9fdf0e64ba56162dab60757b27-d?mw=500&mh=281"
 		},
 		{
@@ -567,7 +567,7 @@
 			"TITLE": "Diamonds",
 			"AGENCY": "CBS",
 			"URL": "https://vimeo.com/220691676",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1552979625-61bd2d10baed52e28baea2bf2d0dc048d5016160d8ff817be934bfb0f39610bc-d?mw=500&mh=281"
 		},
 		{
@@ -576,7 +576,7 @@
 			"TITLE": "Latino Traffic Jam w/ Frankie Quiñones",
 			"AGENCY": "Mitú & RPA",
 			"URL": "https://vimeo.com/248403700",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674089701-eaa840f9b34bbfd78fd94a83ce3d77f50af9c1682fe23e51f944001db47b9cc9-d?mw=500&mh=281"
 		},
 		{
@@ -585,7 +585,7 @@
 			"TITLE": "F!#K Terrorism",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/803189348",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1621289889-421d46b477ef8d0fb86acd93bcf048bc4b7ca56811852be49af47a6eb838d5d3-d?mw=500&mh=281"
 		},
 		{
@@ -594,7 +594,7 @@
 			"TITLE": "Cash Grab",
 			"AGENCY": "Denizen",
 			"URL": "https://vimeo.com/297846743",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/735653691-87f3b83a88bf2bfce608871b2588e3cbb8805489fa3377ebb36d73fd34b2d922-d?mw=500&mh=281"
 		},
 		{
@@ -603,7 +603,7 @@
 			"TITLE": "DTO w/ Dale Earnhardt Jr & Chase Elliot",
 			"AGENCY": "Golin",
 			"URL": "https://vimeo.com/338950067",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/786849334-25a552b937103ae24185bccc3ebe019bdb475f5f3bc84868aa8cddeee49597c3-d?mw=500&mh=281"
 		},
 		{
@@ -612,7 +612,7 @@
 			"TITLE": "Earned It",
 			"AGENCY": "VML",
 			"URL": "https://vimeo.com/530922811",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1443882515-4deec7f3a327e9a91f41cb77b5a2d681a8b30a8b8ffadc84edab705b0e54752e-d?mw=500&mh=281"
 		},
 		{
@@ -621,7 +621,7 @@
 			"TITLE": "Rescue Cactus - Comedy Special",
 			"AGENCY": "Amazon Prime",
 			"URL": "https://vimeo.com/723888358",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1457455111-24565962041f7f5d002fdade172e452dc4905a46a81ecf7e6d679b199a36f343-d?mw=500&mh=281"
 		},
 		{
@@ -630,7 +630,7 @@
 			"TITLE": "DTO w/ Kevin Hart",
 			"AGENCY": "Golin",
 			"URL": "https://vimeo.com/332540139",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/787195067-e97da00c3e8197d8200d4e0641117542fa077e429d10adfa93e202438fae8557-d?mw=500&mh=281"
 		},
 		{
@@ -639,7 +639,7 @@
 			"TITLE": "Lockout",
 			"AGENCY": "VML",
 			"URL": "https://vimeo.com/531963181",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1101825354-7050f8089d5bf07fbd2d346bed732942986c6aca017aed09a5064632bb09abcb-d?mw=500&mh=281"
 		},
 		{
@@ -648,7 +648,7 @@
 			"TITLE": "Otto & Daisy",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/236482051",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662804258-13827447dc1f73958ed9fbd20b93b35d22295ba0982d2b7002b611b4e1d4a8a5-d?mw=500&mh=281"
 		},
 		{
@@ -657,7 +657,7 @@
 			"TITLE": "SKATE",
 			"AGENCY": "EA Sports In-House",
 			"URL": "https://vimeo.com/536040708",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1139857136-3f9a0a9059838ef2c5768ef2ba5bc2f9364ed3034d1001b17be6d8da4c25277b-d?mw=500&mh=281"
 		},
 		{
@@ -666,7 +666,7 @@
 			"TITLE": "SKATE 2",
 			"AGENCY": "EA Sports In-House",
 			"URL": "https://vimeo.com/488688423",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1011175897-2229525112811a44008c1b0a2aa95f9abc672b40c6eef267a3add9371345ccf0-d?mw=500&mh=281"
 		},
 		{
@@ -675,7 +675,7 @@
 			"TITLE": "SKATE 3",
 			"AGENCY": "EA Sports In-House",
 			"URL": "https://vimeo.com/48551799",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674432609-eb8f41c6e45a604b4ae8ec53f3b9a4589f4346181a6fa2805eef6225be0ad76b-d?mw=500&mh=281"
 		},
 		{
@@ -684,7 +684,7 @@
 			"TITLE": "The Bottle",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/803192379",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1621300775-64256ef3eb60d4d517bb57b3a2d981a56ac4efef62b8cc724d5e55dcf9ee6510-d?mw=500&mh=281"
 		},
 		{
@@ -693,7 +693,7 @@
 			"TITLE": "Kobe Jumps Pool of Snakes",
 			"AGENCY": "W+K",
 			"URL": "https://vimeo.com/532471884",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1139862329-8ab37892db54b0aa59b4e8c832cda72e06b474e54b1bbe98fdad852498bd11d7-d?mw=500&mh=281"
 		},
 		{
@@ -702,7 +702,7 @@
 			"TITLE": "Red Fang - Mini Documentary",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/48607019",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/663029944-d38b4d711dcc7494cfd86520346590545fb56d46f82de6322fa28573bbd8f8cd-d?mw=500&mh=281"
 		},
 		{
@@ -711,7 +711,7 @@
 			"TITLE": "The Wingman",
 			"AGENCY": "Avenue A / Razorfish",
 			"URL": "https://vimeo.com/499469506",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034966085-323345dab33bef28a643afe1b2aff75ddba9275bf5094cfcba766a16ea50f57a-d?mw=500&mh=281"
 		},
 		{
@@ -720,7 +720,7 @@
 			"TITLE": "Latino Traffic Jam w/ Lejuan James",
 			"AGENCY": "Mitú & RPA",
 			"URL": "https://vimeo.com/248404335",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674089908-db6d1f3d23ded7c446c0c53a5fa46c4b2a0316e48a6780a8bd689a7210d51d7d-d?mw=500&mh=281"
 		},
 		{
@@ -729,7 +729,7 @@
 			"TITLE": "Testimonial w/ Dale Earnhardt Jr",
 			"AGENCY": "Shandwick",
 			"URL": "https://vimeo.com/336649975",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/787195734-72483d8fef9a5508250df476bc9a6e6e9d03fae1eb9ab219a0060178be1fac9e-d?mw=500&mh=281"
 		},
 		{
@@ -738,7 +738,7 @@
 			"TITLE": "Rodger Stevens",
 			"AGENCY": "Cutwater",
 			"URL": "https://vimeo.com/773955252",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1552996523-79d0b68ce6fe41a49b44e66fda20118cb11657963873a4e4db6249b983f780dd-d?mw=500&mh=281"
 		},
 		{
@@ -747,7 +747,7 @@
 			"TITLE": "Fefe Talavera",
 			"AGENCY": "Cutwater",
 			"URL": "https://vimeo.com/48556541",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/335114362-1415cb17405f5490868d93df43cd2661e965539163deba29f14004a21d2a81b3-d?mw=500&mh=281"
 		},
 		{
@@ -756,7 +756,7 @@
 			"TITLE": "Anne Hardy",
 			"AGENCY": "Cutwater",
 			"URL": "https://vimeo.com/48551796",
-			"CATEGORY": "long form",
+			"CATEGORY": "long-form",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/674433553-a02b3ddc72f1c42508408ab53c6e3f06fef9b40b123e1a1651780d978750e232-d?mw=500&mh=281"
 		},
 		{
@@ -765,7 +765,7 @@
 			"TITLE": "Undercover Caddie w/ Rickie Fowler",
 			"AGENCY": "RPA",
 			"URL": "https://vimeo.com/385844750",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/848142799-5ffbcdf6a5b69904c5d53101a90dd37e75b48f185da13b907f3330869c249740-d?mw=500&mh=281"
 		},
 		{
@@ -774,7 +774,7 @@
 			"TITLE": "Oculus Fear Truck",
 			"AGENCY": "Deep Local",
 			"URL": "https://vimeo.com/816742327",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1653857404-b2a51579db750dd73b4c09c8d93df274789c236b77dc90abaf15b9f92a465f4c-d?mw=500&mh=281"
 		},
 		{
@@ -783,7 +783,7 @@
 			"TITLE": "Shake Up w/ Joel McHale",
 			"AGENCY": "Saatchi",
 			"URL": "https://vimeo.com/648176423",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1305737928-77458c6227a97b3ec3c89a9a267baf514b214b38d13212931?mw=500&mh=281"
 		},
 		{
@@ -792,7 +792,7 @@
 			"TITLE": "Yumbo",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/504599110",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044178916-909c9c86327c9721ad6337bc8a9dc477c434c650700038ee1df6e09504a72bc5-d?mw=500&mh=281"
 		},
 		{
@@ -801,7 +801,7 @@
 			"TITLE": "Dale Earnhardt Jr",
 			"AGENCY": "BBH-NY",
 			"URL": "https://vimeo.com/197987792",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662805657-cd707cc2401f14dd29e3769b806b5e4da0e12035dfd35693de5ded5b6fb9a7ef-d?mw=500&mh=281"
 		},
 		{
@@ -810,7 +810,7 @@
 			"TITLE": "Opera",
 			"AGENCY": "O'Keefe, Reinhard & Paul",
 			"URL": "https://vimeo.com/409929118",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/881401048-33135760b4e020605e36521087de75f95dd27d8056217287a02d9ebd657c7e58-d?mw=500&mh=281"
 		},
 		{
@@ -819,7 +819,7 @@
 			"TITLE": "Coffee Shop in an Instant",
 			"AGENCY": "Work in Progress",
 			"URL": "https://vimeo.com/504605494",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044216679-dcc7f11495563e974b983c1c608f12700d47d233a27fbb810c97c4280e74ad75-d?mw=500&mh=281"
 		},
 		{
@@ -828,7 +828,7 @@
 			"TITLE": "DTO w/ Kevin Hart",
 			"AGENCY": "Golin",
 			"URL": "https://vimeo.com/332540573",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/787194657-e6439ed5766dac7f4c2f0310d1a3bc56c4ccc63d4ca8380682071fe4dcce933d-d?mw=500&mh=281"
 		},
 		{
@@ -837,7 +837,7 @@
 			"TITLE": "Hello, Beautiful",
 			"AGENCY": "CP+B",
 			"URL": "https://vimeo.com/504607850",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044218390-b4b926b02a0ac3d3e7a710d24eb85b849e8f817505c13686df4246b86dcf4b91-d?mw=500&mh=281"
 		},
 		{
@@ -846,7 +846,7 @@
 			"TITLE": "ZZ Top",
 			"AGENCY": "CAA",
 			"URL": "https://vimeo.com/499801053",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1034322194-326c59d367850ad982e65924bf361ab2683fdfa05665ae93f2e3eee84425bd88-d?mw=500&mh=281"
 		},
 		{
@@ -855,7 +855,7 @@
 			"TITLE": "Juice Truck",
 			"AGENCY": "Taxi",
 			"URL": "https://vimeo.com/504598281",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044182764-0fa9c386806adc858206d4477d5b1ee496f325f5359134618ca64035af77db8e-d?mw=500&mh=281"
 		},
 		{
@@ -864,7 +864,7 @@
 			"TITLE": "Homework Direct",
 			"AGENCY": "BBDO",
 			"URL": "https://vimeo.com/504599872",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044176673-5227d22ab2c357889968d76ea9e818a40267541df63e94724f01efbb4b556da5-d?mw=500&mh=281"
 		},
 		{
@@ -873,7 +873,7 @@
 			"TITLE": "Frightfest",
 			"AGENCY": "Fitzgerald and Co.",
 			"URL": "https://vimeo.com/504630301",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044256368-6d16d2325af06bb51d232e355dc252d5e8ba30bfc6845e05cd361e44bf9c79cc-d?mw=500&mh=281"
 		},
 		{
@@ -882,7 +882,7 @@
 			"TITLE": "Dump",
 			"AGENCY": "Doner",
 			"URL": "https://vimeo.com/504609671",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044213600-bc5041e37b578aae60471facffea617bbfa983c11be852d458f60b5035c01ee5-d?mw=500&mh=281"
 		},
 		{
@@ -891,7 +891,7 @@
 			"TITLE": "Taste Test Drive w/ Dale Earnhardt Jr",
 			"AGENCY": "Webber Shandwick",
 			"URL": "https://vimeo.com/336650402",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/787195466-bd8e6c7092faca7af6fa1560fed7c3d3d9e37ede99d0aa45be7cf122264ab821-d?mw=500&mh=281"
 		},
 		{
@@ -900,7 +900,7 @@
 			"TITLE": "Hitchhiker",
 			"AGENCY": "Doner",
 			"URL": "https://vimeo.com/504609004",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044217417-2c72ccf4455eb4ff3879aff947504b992582cbbc53d70d179b1951efce304a6f-d?mw=500&mh=281"
 		},
 		{
@@ -909,7 +909,7 @@
 			"TITLE": "Fortune",
 			"AGENCY": "Arnold",
 			"URL": "https://vimeo.com/165519946",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/662809287-06fc72cc842a0a7d778dcc1e7d5f00b80b151ddf2c965b7d242c336f73a0dde2-d?mw=500&mh=281"
 		},
 		{
@@ -918,7 +918,7 @@
 			"TITLE": "You Can't Fight Happiness (Superman)",
 			"AGENCY": " ",
 			"URL": "https://vimeo.com/504630567",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1044239681-c35e25d4440f6c042ada76f0d28a36787703fdf6615d4682050561a07d1aeae7-d?mw=500&mh=281"
 		},
 		{
@@ -927,7 +927,7 @@
 			"TITLE": "What Tastes Best",
 			"AGENCY": "Taxi",
 			"URL": "https://vimeo.com/307206224",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/747109852-49fa1f833e6c09836d66a4ee97b6d17a54ef7db4d45f6a121d42bc7a0207639f-d?mw=500&mh=281"
 		},
 		{
@@ -936,7 +936,7 @@
 			"TITLE": "NYC",
 			"AGENCY": "Saatchi",
 			"URL": "https://vimeo.com/53800392",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/371758376-2b505f23929b919d45e4871c1ac0ea10c5ae869f719944f3997eaa7d5cb6138b-d?mw=500&mh=281"
 		},
 		{
@@ -945,7 +945,7 @@
 			"TITLE": " ",
 			"AGENCY": "Saatchi",
 			"URL": "https://vimeo.com/543845171",
-			"CATEGORY": "hidden camera",
+			"CATEGORY": "hidden-camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1125712406-4d24b796a7f626ad66d1c340adc802e18867484378f84332166c5bb7426c3b52-d?mw=500&mh=281"
 		}
 	]
