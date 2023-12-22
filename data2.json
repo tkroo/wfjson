@@ -25,7 +25,8 @@
 				"title": "Long Form",
 				"category_key": "long form"
 			}
-		]
+		],
+		"videos_per_page": 12
 	},
 	"about": [
 		{
