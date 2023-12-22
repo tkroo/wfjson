@@ -509,15 +509,6 @@
 		},
 		{
 			"PUBLISH": true,
-			"CLIENT": "The Thermals",
-			"TITLE": "Don't Believe You",
-			"AGENCY": "Kill Rock Stars",
-			"URL": "https://vimeo.com/54631400",
-			"CATEGORY": "music video",
-			"THUMBNAIL": "https://i.vimeocdn.com/video/663000818-4c2be947d4fac32cf8ad82869ed08243ecb727488a805d0529d4325c22dce1be-d?mw=500&mh=281"
-		},
-		{
-			"PUBLISH": true,
 			"CLIENT": "Red Fang",
 			"TITLE": "Hank Is Dead",
 			"AGENCY": "Relapse Records",
