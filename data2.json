@@ -758,6 +758,33 @@
 			"URL": "https://vimeo.com/543845171",
 			"CATEGORY": "hidden camera",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1125712406-4d24b796a7f626ad66d1c340adc802e18867484378f84332166c5bb7426c3b52-d?mw=500&mh=281"
+		},
+		{
+			"PUBLISH": true,
+			"CLIENT": "Lolo",
+			"TITLE": "I Hate You Too",
+			"AGENCY": "Island Records UK",
+			"URL": "https://vimeo.com/86833951",
+			"CATEGORY": "music video",
+			"THUMBNAIL": "https://i.vimeocdn.com/video/662996707-4bd0fc82cc228b371286f49c182004d9ad3b0c508aa0e87b1f606ec468c4b8b7-d?mw=500&mh=281"
+		},
+		{
+			"PUBLISH": true,
+			"CLIENT": "Superchunk",
+			"TITLE": "Erasure",
+			"AGENCY": "Merge Records",
+			"URL": "https://vimeo.com/259925841",
+			"CATEGORY": "music video",
+			"THUMBNAIL": "https://i.vimeocdn.com/video/695247018-0f2598bda7938b6fc7953b22d424d474eb70baee349d17e9ac5f360213eae4e5-d?mw=500&mh=281"
+		},
+		{
+			"PUBLISH": true,
+			"CLIENT": "The Thermals",
+			"TITLE": "Pillar of Salt",
+			"AGENCY": "Sub Pop Records",
+			"URL": "https://vimeo.com/51934131",
+			"CATEGORY": "music video",
+			"THUMBNAIL": "https://i.vimeocdn.com/video/663028697-258c25e6e0bcee79433683647fbc5a749327e277ea7e5b50fa928957d35d87ab-d?mw=500&mh=281"
 		}
 	]
 }
