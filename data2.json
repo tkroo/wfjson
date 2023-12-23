@@ -26,7 +26,8 @@
 				"category_key": "long-form"
 			}
 		],
-		"videos_per_page": 9
+		"videos_per_page": 9,
+		"autoplay_videos": false
 	},
 	"about": [
 		{
@@ -79,7 +80,7 @@
 			"PUBLISH": true,
 			"CLIENT": "Satellite Cider",
 			"TITLE": "The Future Is Now",
-			"AGENCY": "Director + Writer + Editor",
+			"AGENCY": "",
 			"URL": "https://vimeo.com/802948876",
 			"CATEGORY": "commercial",
 			"THUMBNAIL": "https://i.vimeocdn.com/video/1620786974-d84e6ab9a9d865daa105c192e6419d9a434f93f0adf0c98d44e5567087f1a2b3-d?mw=500&mh=281"
