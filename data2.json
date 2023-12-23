@@ -27,7 +27,7 @@
 			}
 		],
 		"videos_per_page": 9,
-		"autoplay_videos": false
+		"autoplay_videos": true
 	},
 	"about": [
 		{
